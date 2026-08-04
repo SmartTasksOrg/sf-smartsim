@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "smartsim"
+version = "3.0.0"
+description = "Simulate before it hits you. See your role's task-by-task collapse sequence."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+authors = [{ name = "SmartTasks Lab" }]
+keywords = ["smart", "ai", "iaiso", "smartsim", "devtools"]
+dependencies = []
+
+[project.urls]
+Homepage = "https://smarttasks.cloud"
+Standard = "https://iaiso.org"
+Repository = "https://github.com/SmartTasksOrg/smartsim"
+
+[project.scripts]
+smartsim = "smartsim.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

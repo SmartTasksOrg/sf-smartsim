@@ -1,0 +1,21 @@
+{
+  "family": "Smart*",
+  "tool": "SmartSim",
+  "version": "3.0.0",
+  "iaiso_section": "\u00a78 \u00b7 Foresight",
+  "share_mode": "public",
+  "cross_promote": [
+    "SmartPangolin",
+    "SmartPrompt",
+    "SmartCheck",
+    "SmartSeal",
+    "SmartStandard",
+    "SmartMoat",
+    "SmartRoute",
+    "SmartFeed"
+  ],
+  "links": {
+    "iaiso": "https://iaiso.org",
+    "cloud": "https://smarttasks.cloud"
+  }
+}

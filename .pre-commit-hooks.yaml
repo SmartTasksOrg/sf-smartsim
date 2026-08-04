@@ -1,0 +1,5 @@
+- id: smartsim
+  name: SmartSim
+  entry: smartsim --demo
+  language: python
+  pass_filenames: false

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "series": [
+      {
+        "tick": 0,
+        "collapse_pressure": 0.05
+      },
+      {
+        "tick": 1,
+        "collapse_pressure": 0.065
+      },
+      {
+        "tick": 2,
+        "collapse_pressure": 0.08
+      },
+      {
+        "tick": 3,
+        "collapse_pressure": 0.095
+      },
+      {
+        "tick": 4,
+        "collapse_pressure": 0.11
+      },
+      {
+        "tick": 5,
+        "collapse_pressure": 0.125
+      },
+      {
+        "tick": 6,
+        "collapse_pressure": 0.14
+      },
+      {
+        "tick": 7,
+        "collapse_pressure": 0.155
+      },
+      {
+        "tick": 8,
+        "collapse_pressure": 0.17
+      },
+      {
+        "tick": 9,
+        "collapse_pressure": 0.185
+      },
+      {
+        "tick": 10,
+        "collapse_pressure": 0.2
+      },
+      {
+        "tick": 11,
+        "collapse_pressure": 0.215
+      },
+      {
+        "tick": 12,
+        "collapse_pressure": 0.23
+      },
+      {
+        "tick": 13,
+        "collapse_pressure": 0.245
+      },
+      {
+        "tick": 14,
+        "collapse_pressure": 0.26
+      },
+      {
+        "tick": 15,
+        "collapse_pressure": 0.275
+      },
+      {
+        "tick": 16,
+        "collapse_pressure": 0.29
+      },
+      {
+        "tick": 17,
+        "collapse_pressure": 0.305
+      },
+      {
+        "tick": 18,
+        "collapse_pressure": 0.32
+      },
+      {
+        "tick": 19,
+        "collapse_pressure": 0.335
+      },
+      {
+        "tick": 20,
+        "collapse_pressure": 0.35
+      },
+      {
+        "tick": 21,
+        "collapse_pressure": 0.365
+      },
+      {
+        "tick": 22,
+        "collapse_pressure": 0.38
+      },
+      {
+        "tick": 23,
+        "collapse_pressure": 0.395
+      },
+      {
+        "tick": 24,
+        "collapse_pressure": 0.41
+      },
+      {
+        "tick": 25,
+        "collapse_pressure": 0.425
+      },
+      {
+        "tick": 26,
+        "collapse_pressure": 0.44
+      },
+      {
+        "tick": 27,
+        "collapse_pressure": 0.455
+      },
+      {
+        "tick": 28,
+        "collapse_pressure": 0.47
+      },
+      {
+        "tick": 29,
+        "collapse_pressure": 0.485
+      },
+      {
+        "tick": 30,
+        "collapse_pressure": 0.5
+      },
+      {
+        "tick": 31,
+        "collapse_pressure": 0.545
+      },
+      {
+        "tick": 32,
+        "collapse_pressure": 0.56
+      },
+      {
+        "tick": 33,
+        "collapse_pressure": 0.575
+      },
+      {
+        "tick": 34,
+        "collapse_pressure": 0.59
+      },
+      {
+        "tick": 35,
+        "collapse_pressure": 0.605
+      },
+      {
+        "tick": 36,
+        "collapse_pressure": 0.62
+      },
+      {
+        "tick": 37,
+        "collapse_pressure": 0.635
+      },
+      {
+        "tick": 38,
+        "collapse_pressure": 0.65
+      },
+      {
+        "tick": 39,
+        "collapse_pressure": 0.665
+      },
+      {
+        "tick": 40,
+        "collapse_pressure": 0.68
+      },
+      {
+        "tick": 41,
+        "collapse_pressure": 0.695
+      },
+      {
+        "tick": 42,
+        "collapse_pressure": 0.71
+      },
+      {
+        "tick": 43,
+        "collapse_pressure": 0.725
+      },
+      {
+        "tick": 44,
+        "collapse_pressure": 0.74
+      },
+      {
+        "tick": 45,
+        "collapse_pressure": 0.755
+      },
+      {
+        "tick": 46,
+        "collapse_pressure": 0.77
+      },
+      {
+        "tick": 47,
+        "collapse_pressure": 0.785
+      },
+      {
+        "tick": 48,
+        "collapse_pressure": 0.8
+      },
+      {
+        "tick": 49,
+        "collapse_pressure": 0.815
+      },
+      {
+        "tick": 50,
+        "collapse_pressure": 0.83
+      },
+      {
+        "tick": 51,
+        "collapse_pressure": 0.845
+      },
+      {
+        "tick": 52,
+        "collapse_pressure": 0.86
+      },
+      {
+        "tick": 53,
+        "collapse_pressure": 0.875
+      },
+      {
+        "tick": 54,
+        "collapse_pressure": 0.89
+      },
+      {
+        "tick": 55,
+        "collapse_pressure": 0.905
+      },
+      {
+        "tick": 56,
+        "collapse_pressure": 0.92
+      },
+      {
+        "tick": 57,
+        "collapse_pressure": 0.935
+      },
+      {
+        "tick": 58,
+        "collapse_pressure": 0.95
+      },
+      {
+        "tick": 59,
+        "collapse_pressure": 0.965
+      }
+    ]
+  }
+}

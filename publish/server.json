@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.smarttasksorg/smartsim",
+  "description": "Simulate before it hits you. See your role's task-by-task collapse sequence.",
+  "version": "3.0.0",
+  "repository": {
+    "url": "https://github.com/SmartTasksOrg/smartsim",
+    "source": "github"
+  },
+  "packages": [
+    {
+      "registryType": "pypi",
+      "identifier": "smartsim",
+      "version": "3.0.0",
+      "transport": {
+        "type": "stdio"
+      },
+      "runtimeHint": "uvx"
+    }
+  ]
+}
