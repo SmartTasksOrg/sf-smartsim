@@ -15,8 +15,12 @@ As AI reshapes how we work, a new gap opens: your role/industry is shifting unde
 `simulate` at the exact moment the gap bites, and it works the second you clone it
 (a synthetic demo ships in `demo/`).
 
+SmartSim is not published on PyPI. The PyPI package `smartsim` is a different project (SmartSim by Hewlett Packard Enterprise / CrayLabs); it is not this tool and is not related to it.
+
 ```bash
-pip install smartsim
+git clone https://github.com/SmartTasksOrg/smartsim
+cd smartsim
+python -m pip install .
 smartsim --demo        # run against the bundled demo
 ```
 
@@ -24,7 +28,7 @@ smartsim --demo        # run against the bundled demo
 
 | Where you work | How you run it |
 |---|---|
-| **Python** | `pip install smartsim` |
+| **Python** | from a clone: `python -m pip install .` (not on PyPI yet) |
 | **CI / pre-commit** | add the hook from [`.pre-commit-hooks.yaml`](.pre-commit-hooks.yaml) |
 
 ## What's in this repo
