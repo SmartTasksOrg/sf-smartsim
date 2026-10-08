@@ -1,24 +1,24 @@
 {
   "schema": 1,
-  "repo": "SmartTasksOrg/smartsim",
+  "repo": "SmartTasksOrg/sf-smartsim",
   "checked_on": "2026-10-08",
   "names": [
     {
       "registry": "pypi",
-      "name": "smarttasks-sim",
+      "name": "sf-smartsim",
       "registered": false,
       "workflow": "release.yml",
-      "note": "planned name (D1 default); the rename is not done yet"
+      "note": "first release pending; README in state A"
     },
     {
       "registry": "pypi",
       "name": "smartsim",
       "registered": false,
-      "note": "HPE/CrayLabs SmartSim, not ours"
+      "note": "HPE/CrayLabs SmartSim, not ours; never install it for this tool"
     },
     {
       "registry": "mcp",
-      "name": "io.github.smarttasksorg/smartsim",
+      "name": "io.github.smarttasksorg/sf-smartsim",
       "registered": false
     }
   ],
