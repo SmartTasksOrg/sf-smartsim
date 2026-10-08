@@ -1,7 +1,7 @@
 # Using SmartSim
 
 ```bash
-smartsim --demo
+sf-smartsim --demo
 ```
 
 <!-- SMARTTASKS-MODELS:START -->

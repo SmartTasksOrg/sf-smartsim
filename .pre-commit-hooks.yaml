@@ -1,5 +1,5 @@
-- id: smartsim
+- id: sf-smartsim
   name: SmartSim
-  entry: smartsim --demo
+  entry: sf-smartsim --demo
   language: python
   pass_filenames: false
