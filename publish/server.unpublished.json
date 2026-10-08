@@ -10,7 +10,7 @@
   "packages": [
     {
       "registryType": "pypi",
-      "identifier": "smarttasks-sim",
+      "identifier": "sf-smartsim",
       "version": "3.0.0",
       "transport": {
         "type": "stdio"
