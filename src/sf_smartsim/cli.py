@@ -1,4 +1,4 @@
-"""SmartSim CLI — run `smartsim --demo`."""
+"""SmartSim CLI — run `sf-smartsim --demo`."""
 import os, sys, json
 from . import core
 from ._version import __version__

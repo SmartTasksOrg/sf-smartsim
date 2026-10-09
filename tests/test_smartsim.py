@@ -1,4 +1,4 @@
-from smartsim import cli
+from sf_smartsim import cli
 
 def test_demo_runs():
     assert cli.main(["--demo"]) == 0

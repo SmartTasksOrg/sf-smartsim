@@ -1,6 +1,6 @@
 test:
-	python tests/test_smartsim.py
+	python -m pytest -q
 demo:
-	python -m smartsim --demo
+	python -m sf_smartsim --demo
 build:
 	python -m build

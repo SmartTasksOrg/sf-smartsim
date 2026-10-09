@@ -15,6 +15,6 @@ A tool that needs setup before it proves itself doesn't spread. Ship the demo.
 Meet the IAIso §8 · Foresight bar, then stack with every sibling tool.
 
 **V. Bare it all — except the secrets.**
-Radical in the open (smartsim/), locked where it counts (private/).
+Radical in the open (sf-smartsim/), locked where it counts (private/).
 
 *SmartSim is part of the Smart* family. https://iaiso.org · https://smarttasks.cloud*
