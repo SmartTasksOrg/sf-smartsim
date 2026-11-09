@@ -2,6 +2,14 @@
 
 ## Unreleased
 
+### Added
+- `profile_from_tasks()`, `sequence()`, `load_tasks()`, `load_series()`; `timeline(series)` accepts your own data, validated to [0, 1].
+- CLI: `sf-smartsim ROLE.json [--series SERIES.json] [--json]`.
+- The demo labels its random tasks as illustrative.
+
+### Tests
+- `tests/test_behaviour.py` now has 13 behaviour tests covering real input, validation and the CLI.
+
 ### Tests
 - `tests/test_behaviour.py`: 5 behaviour tests of `core` (every rule or formula, edge cases and the fallbacks), next to the 2 smoke tests of the demo.
 
