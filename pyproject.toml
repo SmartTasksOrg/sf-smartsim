@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sf-smartsim"
-version = "3.0.0"
+version = "3.1.0"
 description = "Simulate before it hits you. See your role's task-by-task collapse sequence."
 readme = "README.md"
 requires-python = ">=3.10"

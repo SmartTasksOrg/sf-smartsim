@@ -1,7 +1,7 @@
 {
   "tool": "SmartSim",
   "package": "smartsim",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "iaiso_section": "\u00a78 \u00b7 Foresight",
   "rule_prefix": "SIM-*",
   "conforms_to": "https://github.com/SmartTasksOrg/IAIso",

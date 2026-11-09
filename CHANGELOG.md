@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 3.1.0
 
 ### Added
 - `profile_from_tasks()`, `sequence()`, `load_tasks()`, `load_series()`; `timeline(series)` accepts your own data, validated to [0, 1].
@@ -9,9 +9,6 @@
 
 ### Tests
 - `tests/test_behaviour.py` now has 13 behaviour tests covering real input, validation and the CLI.
-
-### Tests
-- `tests/test_behaviour.py`: 5 behaviour tests of `core` (every rule or formula, edge cases and the fallbacks), next to the 2 smoke tests of the demo.
 
 ### Documentation
 - README "Status": says the tool is an alpha whatever its version number, how many tests it has, and what `core` does and does not do today.
