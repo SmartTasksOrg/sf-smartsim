@@ -46,7 +46,7 @@ sf-smartsim --demo
 
 ## Status
 
-- **Version 3.0.0, experimental (alpha).** A small deterministic command-line tool with a bundled synthetic demo. The version number does not mean the tool is mature: PyPI classifies it as "Development Status :: 3 - Alpha".
+- **Version 3.1.0, experimental (alpha).** A small deterministic command-line tool with a bundled synthetic demo. The version number does not mean the tool is mature: PyPI classifies it as "Development Status :: 3 - Alpha".
 - **Scope:** `profile_from_tasks()` scores a real role from your tasks' repetition and judgment, `sequence()` orders them weakest moat first, and `timeline()` reads your own series. The demo's `profile()` still draws illustrative values from a seeded random generator and says so. Run it on your own file: `sf-smartsim paralegal.json --series adoption.json`.
 - **Published:** PyPI `sf-smartsim` (see Install). Nothing else is published.
 - **Tested:** the 15 tests in `tests/` (2 smoke tests of the demo and 13 behaviour tests of `core`, in `tests/test_behaviour.py`) on Python 3.12, Linux, on every push to master and every pull request (`.github/workflows/ci.yml`).
